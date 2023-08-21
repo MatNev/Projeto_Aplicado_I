@@ -37,7 +37,8 @@ A responsabilidade de cada membro será descrita e organizada aqui :
    # Prazos
 
 As datas e descrição dos afazeres de cada etapa :
-   ETAPA 1 - *Metas e milestones*  //segunda, 28 ago 2023, 23:55//
+   
+    ETAPA 1 - *Metas e milestones*  //segunda, 28 ago 2023, 23:55//
     - Premissas do projeto.
     - Objetivos e metas.
     - Cronograma das atividades.
