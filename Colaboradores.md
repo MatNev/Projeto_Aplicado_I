@@ -17,3 +17,5 @@ Este projeto trabalha um estudo prático sobre dados de uma empresa real escolhi
  Matheus Neves de Castro  /  23011742  /  10923011742@mackenzista.com.br
 
  Professor responsável: Everton Knihs
+
+ Link para o vídeo da apresentação final: https://youtu.be/TluKlM_0SQg?si=FsseF_4PJrhU595a
